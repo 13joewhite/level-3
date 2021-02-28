@@ -1,0 +1,56 @@
+body {
+  background-color: #EDD59E;
+}
+
+.friendName {
+  position: relative;
+  left: 40%;
+  border: 10px;
+  background-color: #A0DAA9;
+  width: 300px;
+  border: 90px;
+  border: solid;
+  border-color :#FDAC53;
+  padding: 30;
+  margin: 20
+}
+
+.friendAge {
+  position: relative;
+  left: 40%;
+  border: 10px;
+  background-color: #A0DAA9;
+  width: 300px;
+  border: 90px;
+  border: solid;
+  border-color :#FDAC53;
+  padding: 30;
+  margin: 20
+} 
+
+.petName  {
+  position: relative;
+  left: 40%;
+  border: 10px;
+  background-color: #798EA4;
+  width: 300px;
+  border: 90px;
+  border: solid;
+  border-color :#FDAC53;
+  padding: 30;
+  margin: 20
+}
+
+
+.petAge  {
+  position: relative;
+  left: 40%;
+  border: 10px;
+  background-color: #798EA4;
+  width: 300px;
+  border: 90px;
+  border: solid;
+  border-color :#FDAC53;
+  padding: 30;
+  margin: 20
+}

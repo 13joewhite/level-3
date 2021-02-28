@@ -6,7 +6,22 @@ function App(){
     return(
         <div>
             <H1 />
-            <TodoItem />
+            <TodoItem 
+                item="Eggs"
+                description="Two dozen eggs."
+            />
+            <TodoItem 
+                item="Milk"
+                description="Half gallon of milk."
+            />
+            <TodoItem 
+                item="Cereal"
+                description="Lucky Charms."            
+            />
+            <TodoItem 
+                 item="Gatorade"
+                 description="Red"           
+            />
         </div>
     )
 }
