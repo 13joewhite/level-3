@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(185, 165, 141);
+}
+
+.squareContainer {
+  width: 100vw;
+  height: 100vh;
+}
+
+.squares {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.blue {
+  background-color: blue;
+}
