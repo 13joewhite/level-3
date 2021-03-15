@@ -1,0 +1,74 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  padding: 50px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+.divs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  width: 75%;
+}
+
+.divs input {
+  width: 45%;
+}
+
+.infoText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 75%;
+  height: 50px;
+}
+
+
+
+.mainBadgeDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  padding: 50px;
+  border-radius: 15px;
+  border: 5px solid black;
+}
+
+.badgeTitle {
+  display: flex;
+  align-items: center;
+  width: 115%;
+  height: 50px;
+  background-color: grey;
+}
+
+.inputBadgeDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  width: 75%;
+}
+
+.selfInfoBadge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 75%;
+  height: 50px;
+}
